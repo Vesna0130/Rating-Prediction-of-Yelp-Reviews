@@ -8,4 +8,4 @@ In the data folder,  “uni_10000.csv”, “bi_20000.csv” and “tri_50000.cs
 ## Code
 In the code folder, we have python files. “model selection” includes the code of creating matrix for models and all kind of models we tried(except LSTM). “LSTM” contains our best model LSTM. “variable selection” is the process of variable selection. 
 ## Image
-In the plot folder,  we have pre-analysis which includes “word cloud”, ratings over review length,  top 5 categories and so on. Besides we have the analysis of our result, like residual plot, QQ plot and so on.
+In the image folder,  we have pre-analysis which includes “word cloud”, ratings over review length,  top 5 categories and so on. Besides we have the analysis of our result, like residual plot, QQ plot and so on.
